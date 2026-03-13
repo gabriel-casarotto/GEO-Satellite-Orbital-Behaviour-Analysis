@@ -86,7 +86,7 @@ Understanding GEO satellite behaviour is important for:
 
 This project was originally inspired by an orbital analysis workflow similar to those used in **space surveillance and tracking applications**.
 
-![image alt]([https://github.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/blob/main/station%20keeping.png?raw=true](https://raw.githubusercontent.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/refs/heads/main/station_keeping.pn)
+![image alt]([https://github.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/blob/main/station%20keeping.png?raw=true](https://raw.githubusercontent.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/refs/heads/main/station_keeping.png)
 
 ![image alt]([https://github.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/blob/main/Orbital%20Status.png?raw=true](https://raw.githubusercontent.com/gabriel-casarotto/GEO-Satellite-Orbital-Behaviour-Analysis/refs/heads/main/drifting.png)
 
